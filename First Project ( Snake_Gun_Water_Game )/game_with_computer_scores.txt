@@ -1,0 +1,26 @@
+                                                         Snake Water Gun Game scores
+
+---Previous Game Scores---
+Player Choice = gun
+Computer Choice = snake
+Result is = Player Wins
+
+---Previous Game Scores---
+Player Choice = gun
+Computer Choice = snake
+Result is = Player Wins
+
+---Previous Game Scores---
+Player Choice = gun
+Computer Choice = gun
+Result is = It's a Draw
+
+---Previous Game Scores---
+Player Choice = gun
+Computer Choice = gun
+Result is = A Draw
+
+---Previous Game Scores---
+Player Choice = gun
+Computer Choice = water
+Result is = Computer wins
